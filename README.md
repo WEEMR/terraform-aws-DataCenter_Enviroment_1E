@@ -1,6 +1,6 @@
 # FortiGate SD-WAN DataCenter Enviroment 1E
 
-To use this module Please go to (https://github.com/waleedrady/AWS_Cloud_DC_Enviroment_1A)
+To use this module Please go to (https://github.com/waleedrady/AWS_Cloud_DC_Enviroment_1E)
 
 Terraform Module that will create the AWS Networking Stack with FGT, Apache Server, Windows Server and utilize AWS Route53 for DNS.
 
